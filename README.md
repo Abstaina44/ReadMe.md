@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <h1 style="background-color:DodgerBlue;"></h1></h1>
+<h1 align="center">Hi 👋, <h1 style="background-color:DodgerBlue;"></h1></h1>
 
 <h3 align="center">A passionate frontend Engineer,blockchain Developer(Solidity)</h3> 
 
